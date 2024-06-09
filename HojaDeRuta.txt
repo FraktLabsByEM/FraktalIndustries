@@ -1,0 +1,123 @@
+//////****** FRAKTAL INDUSTRIES ******//////
+
+Fraktal Industries is a modular application that aims to increase the productivity of each industrial department by providing automated technological tools that collect all kinds of metrics, which would then be processed to generate timely statistics, which together with AI assistance guide towards the best decisions, without leaving On the one hand, the use of this big data favors the control and traceability of the operation in each department of the company.
+Why is it modular? Fraktal Labs understands that for your growth as a startup, you must make your niche big, and that can only be achieved with variety, that's what benefits us. For our clients there are also great advantages. Small companies suffer to meet their needs, and sometimes have to pay for a super robust platform, wasting its functionalities, or have to contract small products for each segment of their company. Therefore, a solid environment that can be fragmented (hence the Fraktal reference) so that the client can put together a package with the modules it requires, however, if in the long term it requires including more modules, it will have the availability of include them in your package, without having to change providers and without going through the long learning curve that a software change can entail. That is, the client will never have to adapt to the available tools, but rather the tools will adapt to the client.
+
+Fraktal Industries is made up of 5 large cores, which is worth clarifying, it is only a way of presenting the product, since some functionalities of a core require implementing other functionalities of other cores. The human core that helps manage all internal and external relationships and the traceability of the interaction of all human resources, including clients. The financial core is responsible for maintaining the traceability of all the financial movements of a company, a power that allows at any time to support these movements and the changes pertinent to each of them. The operations core is responsible for monitoring all production, the personnel involved in each item, the material used in it and everything that is involved in production. The development core provides all the tools reinforced by AI, to boost creativity when creating products. The logistics core is in charge of all the logistical aspects of the company, such as Warehousing, Security, Delivery among others, which allows the monitoring of all these aspects to guarantee an effective service provision outside of regulations. Below is a simplified view of the components of each core, which although we do not remember, are not the application cores, but rather the business cores to which our products are directed.
+
+Human:
+  - Customer Relationship Manager
+  - Customer service
+  - Human Resources
+
+Finance:
+  - Billing
+  - Purchasing
+  - Credits
+  - Marketing
+
+Operations:
+  - Production
+  - Packaging
+  - Quality
+  - Occupational Health
+
+Development:
+  - Product Design and Development
+  - Research and Investigation
+  - Technology Research
+
+Logistics:
+  - Security
+  - Storage
+  - Dispatch and Delivery
+  - Data Management
+
+****** MODULES ******
+The different modules have been structured thinking about the scalability of companies, each of them includes functionalities
+that are useful for both small businesses and large multinationals. Each one with its respective databases aimed at the 
+traceability of the data entered, keeping a complete history of each change made in each of its main records, 
+and which are interconnected between modules depending on the requirements or packages that each customer selects.
+
+Billing:
+  - Billing
+  - Purchasing
+  - Credits
+  - Inventory (require labels)
+  - Dispatch and Delivery (require labels)
+  - Account Manager
+
+Human:
+  - CRM
+  - Customer Service
+  - Human Resources (require sensors)
+  - Occupational Health (require sensors)
+
+Secure:
+  - Security (require sensors)
+  - Storage (require labels)
+  - Production (require sensors)
+  - Quality (require sensors)
+
+Logistic:
+  - Packaging
+  - Marketing
+  - Product Design
+  - Data Management
+  - Infrastructure
+  - Storage (require labels)
+
+Remote:
+  - Remote trace and RT monitoring (require sensors)
+  - RT Actuators (require sensors and actuators)
+  - Remote Security guidance (require sensors)
+  - Remote Productivity (require sensors and advanced actuators)
+  - Secure Home Office
+
+Cyber: (requires Billing Module)
+  - Website
+  - Mobile application
+  - E-Mall
+  - Content Manager (code free)
+  - Social Networks
+  - E-Commerce tools
+
+Augmented Reality: (require source virtualization)
+  - AR catalogue 
+  - AR Training
+  - AR flow control
+  - AR ambient simulations
+
+Artificial Intelligence: (self training and/or pretrained)
+  - AI Chatbot
+  - AI Customer service
+  - AI Catalogue assistance
+  - AI Prospections and Predictions
+  - AI Design
+  - AI Oratory
+  - AI Module mandatory
+
+Clinic: (for health industries)
+  - Patient manager
+  - Toxic waste (require labels)
+  - CUMS CUPS DX request
+  - Documentation
+  - Doc Profiler (require identity manual)
+  - Remote Metrics (require sensors)
+  - Instant mutators/actuators (require sensors and actuators)
+  - Instant Notifications (require sensors)
+
+Driver: (for Transport Industries)
+  - RT GPS (require sensors)
+  - RT vehicle metrics (require sensors)
+  - Instant Actuators (require sensors and actuators)
+  - E-pay
+  - Seat assign (require sensors)
+  - Guidance Assistance
+
+
+****** DATABASES ******
+
+****** SENSORS ******
+
+****** ACTUATORS ******
